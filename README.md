@@ -65,6 +65,7 @@ Dependencies listed in the `requirements.txt` file are Python libraries needed t
 Install required Python packages:
 
 pip install -r requirements.txt
+
 Step 3: Setup OpenAI API Key
 Obtain an OpenAI API key from OpenAI's API page and set it as an environment variable:
 
